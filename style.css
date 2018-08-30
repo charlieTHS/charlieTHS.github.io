@@ -1,5 +1,8 @@
 body {
-    background-image: url(a.jpg);
+    background-image: url(darn.jpg);
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
 	color: white;
 }
 
