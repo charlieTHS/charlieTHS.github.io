@@ -17,7 +17,7 @@ h1 {
 	margin-left: 500px;
 	padding: 15px;
 	background-color: #48d3f2;
-	outline-color: white;
+	outline-color: #6dd6b6;
 	margin-top: 40px;
 }
 
@@ -31,7 +31,7 @@ h2  {
 	margin-right: 700px;
 	margin-left: 700px;
 	background-color: #48d3f2;
-	outline-color: white;
+	outline-color: #6dd6b6;
 	margin-top: 40px;
 }
 
@@ -43,7 +43,7 @@ p  {
      border: 3px;
     padding: 10px;
 	outline-style: solid;
-	background-color: #48d3f2;
+	background-color: ##6dd6b6;
 	outline-color: white;
 	margin-top: 40px;
 }
