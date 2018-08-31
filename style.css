@@ -3,7 +3,7 @@ body {
     background-size:     cover;
     background-repeat:   no-repeat;
     background-position: center center;
-	color: white;
+	color: black;
 }
 
 h1 {
@@ -16,7 +16,7 @@ h1 {
 	margin-right: 500px;
 	margin-left: 500px;
 	padding: 15px;
-	background-color: black;
+	background-color: #48d3f2;
 	outline-color: white;
 	margin-top: 40px;
 }
@@ -30,7 +30,7 @@ h2  {
 	margin: 10;
 	margin-right: 700px;
 	margin-left: 700px;
-	background-color: black;
+	background-color: #48d3f2;
 	outline-color: white;
 	margin-top: 40px;
 }
@@ -43,7 +43,7 @@ p  {
      border: 3px;
     padding: 10px;
 	outline-style: solid;
-	background-color: black;
+	background-color: #48d3f2;
 	outline-color: white;
 	margin-top: 40px;
 }
